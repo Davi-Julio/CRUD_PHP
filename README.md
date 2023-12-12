@@ -1,0 +1,1 @@
+Sistema de gerenciamento de usuários totalmente centrado nas operações CRUD, proporcionando a capacidade de adicionar, editar e excluir usuários. O FrontEnd foi desenvolvido utilizando HTML, CSS e Bootstrap, enquanto o BackEnd é sustentado pela combinação poderosa de PHP e MYSQL.
